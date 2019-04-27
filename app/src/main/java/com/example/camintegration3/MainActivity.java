@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
     String ex ="";
     boolean isFragOpen;
     String nameSelected;
+    //edit
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
